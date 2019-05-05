@@ -1,1 +1,2 @@
 #android客户端截图小工具
+项目依赖spirit2、common两个基础库
